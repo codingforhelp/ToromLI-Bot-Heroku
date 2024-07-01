@@ -1,4 +1,7 @@
 #!/bin/bash
+#!/bin/sh
+python3 api.py
+
 chmod +x engines/stockfish
 chmod +x engines/multivariant_stockfish
 chmod +x engines/fairy-sf
